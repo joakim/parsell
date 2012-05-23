@@ -1,4 +1,6 @@
-parsell
-=======
+Parsell 4
+=========
 
-Parsell 4 i Herligheten Hagelag
+Parsellen vår er versjonskontrollert!
+
+[Les mer her](http://joakim.github.com/parsell)
